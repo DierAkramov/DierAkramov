@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DierAkramov
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C++, React Native, TypeScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
